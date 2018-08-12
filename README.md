@@ -1,4 +1,4 @@
-# MyCollegeDatabse
+# MyCollegeDatabase
 
 My First College Project !.
 It is a database for the freshers who register their names for different hubs!.
